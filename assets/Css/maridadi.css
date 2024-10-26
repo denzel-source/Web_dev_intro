@@ -1,0 +1,19 @@
+.cars{
+    background-color: aqua;
+    border: 2px solid red;
+    text-align: center;
+    padding: 20px;
+}
+
+.fruits{
+    background-color: rebeccapurple;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+.CARS{
+    background-color: orangered;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
